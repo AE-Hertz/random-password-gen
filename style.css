@@ -1,0 +1,44 @@
+#container{
+    font-family: sans-serif;
+    text-align: center;
+    
+    font-size: 2rem;
+    font-weight: bold;
+    
+}
+label{
+    font-size: 1.5rem;
+    font-weight: lighter;
+    
+}
+
+button{
+    font-size: 1.5rem;
+    padding: 12px 15px;
+    border-radius: 2px;
+    border: none;
+    background-color: rgb(242, 100, 247);
+    color: black;
+    font-weight: lighter;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(249, 64, 255);
+}
+
+input{
+    font-size:  2rem;
+    width :auto;
+    text-align: center;
+}
+
+#head{
+    text-decoration-line: underline;
+    text-decoration-color: purple;
+}
+
+#result{
+    font-size: smaller;
+    font-weight: lighter;
+    margin-top: 5%;
+}
