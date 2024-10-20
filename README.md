@@ -1,6 +1,9 @@
 # 🔐 Random Password Generator
 
 A simple and secure random password generator built using HTML, CSS, and JavaScript. This tool generates strong passwords with no length limitation and includes special characters! 💻🔒
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3A3aHM2a3dobjh0Y3Z6a3U3NTF2dTljaW14bTdhMzNheXdyNzQ4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zyFcsWHX2fdpyb5SBi/giphy.webp" alt="Gif" style="width: 100%;" />
+
+
 
 ## ✨ Features
 
